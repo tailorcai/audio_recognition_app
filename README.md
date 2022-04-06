@@ -1,7 +1,8 @@
 ## Changes
 
-Using YAMNET model from tflite, which has 521 classes
-upgrade to tflite_audio 0.3.0
+- Using YAMNET model from tflite, which has 521 classes
+- upgrade to tflite_audio 0.3.0
+
 Cheers!
 
 
