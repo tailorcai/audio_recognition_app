@@ -1,3 +1,10 @@
+## Changes
+
+Using YAMNET model from tflite, which has 521 classes
+upgrade to tflite_audio 0.3.0
+Cheers!
+
+
 [![Medium][medium-shield]][medium-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
